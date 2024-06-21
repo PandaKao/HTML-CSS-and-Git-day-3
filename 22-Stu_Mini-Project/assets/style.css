@@ -1,0 +1,32 @@
+
+nav {
+    background-color: green;
+    font-size: 20px;
+    position: fixed;
+    width: 100%;
+    text-align: right;
+    top: 0;
+    right: 0;
+    outline: 5px solid gold;
+    padding: 10px;
+}
+
+#format {
+    text-align: center;
+    font-weight: bold;
+}
+
+main {
+    padding-top: 30px;
+    text-align: center;
+}
+
+#contact {
+    background-color: salmon
+}
+
+.background {
+    background-color: green;
+    outline: 5px solid black;
+    text-align: center;
+}
