@@ -11,18 +11,22 @@ nav {
     padding: 10px;
 }
 
-#format {
+.format {
     text-align: center;
     font-weight: bold;
 }
 
-main {
+h1 {
     padding-top: 30px;
-    text-align: center;
+}
+
+main {
+    text-align: center;    
 }
 
 #contact {
-    background-color: salmon
+    margin: 0px;
+    background-color: salmon;
 }
 
 .background {
